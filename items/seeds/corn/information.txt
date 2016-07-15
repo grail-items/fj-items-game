@@ -1,0 +1,14 @@
+Name: 
+Corn Seeds
+
+Description:
+A bag of corn seeds. Plant these in some dirt.
+
+Points:
+100
+
+Acquisition method:
+Combine
+
+Drop rate:
+not applicable

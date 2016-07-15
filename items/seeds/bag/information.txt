@@ -1,0 +1,14 @@
+Name: 
+Seed Bag
+
+Description:
+A bag of seeds. Open it to see if there are seeds left inside.
+
+Points:
+1000
+
+Acquisition method:
+Drop
+
+Drop rate:
+Common (same as egg hoarder?)

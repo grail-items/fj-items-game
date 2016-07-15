@@ -1,0 +1,11 @@
+Item Combining name: GetSeedBags
+
+Required items
+- (Seed Bag): 1/1 chance to destroy, needs 1 items
+
+Created items
+- (Corn Seeds): 1/100 chance to create, from 1 to 2
+
+Success message: You dig up some seeds from the bottom of the bag.
+
+Failed message: Yegh! All seeds are rotten.
